@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=hemza31.hemza31) [![Github](https://img.shields.io/github/followers/hemza31?label=Followers&logo=Github)](https://github.com/hemza31)
 
 
-## 🎓 I'm a JAVA full stack softwre developper
+## 🎓 I'm a Software Project Manger & JAVA full stack developper
 
 - 🔭 I’m currently developing Java applications.
 - 🌱 I’m currently learning Angular.

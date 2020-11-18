@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently developing Java applications.
 - 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate with you on grateful projects.
-- 💬 Ask me about my experiences
+- 👯 I’m looking to collaborate with you on greatfull projects.
+- 💬 Ask me about my experiences.
 - ⚡ Fun fact: I love prepare delicious homemade pizza's.
 
 

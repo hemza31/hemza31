@@ -4,11 +4,13 @@
 
 ## 🎓 I'm a Software Project Manger & JAVA full stack developper
 
-- 🔭 I’m currently developing Java applications.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m currently developing Java and Javascript applications.
+- 🌱 I’m currently learning Angular and Node.Js.
+- 🌱 I’m currently learning SAP ABAP, FIORI and UI5.
+
 - 👯 I’m looking to collaborate with you on greatfull projects.
 - 💬 Ask me about my experiences.
-- ⚡ Fun fact: I love prepare delicious homemade pizza's.
+- ⚡ Fun fact: I love preparing delicious homemade pizza's.
 
 
 

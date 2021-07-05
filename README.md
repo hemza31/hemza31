@@ -5,7 +5,7 @@
 ## 🎓 I'm a Software Project Manger & JAVA full stack developper
 
 - 🔭 I’m currently developing Java and Javascript applications.
-- 🌱 I’m currently learning Angular and Node.Js.
+- 🌱 I’m currently learning Angular React and Node.Js.
 - 🌱 I’m currently learning SAP ABAP, FIORI and UI5.
 
 - 👯 I’m looking to collaborate with you on greatfull projects.
